@@ -1,0 +1,10 @@
+{
+  "name": "resmio/wp-integration-cmb2-qtranslate",
+  "version": "master",
+  "type": "wordpress-plugin",
+  "source": {
+      "url": "git@github.com:resmio/wp-integration-cmb2-qtranslate.git",
+      "type": "git",
+      "reference": "master"
+  }
+}
