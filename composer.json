@@ -1,5 +1,5 @@
 {
-  "name": "resmio/wp-integration-cmb2-qtranslate",
+  "name": "cmb2-qtranslate-integration",
   "version": "master",
   "type": "wordpress-plugin",
   "source": {
